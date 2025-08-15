@@ -21,9 +21,9 @@ I'm a software engineering student at SJSU, developer, and digital explorer 🚵
          <img alt="My Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://www.linkedin.com/in/connor-linville-219422216/">
          <img alt="My Repositories" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?color=0178d5&style=for-the-badge&logoColor=0178d5&logo=default-linkedin-logo"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/KingSand08?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kingsand08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/KingSand08?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kingsand08?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
