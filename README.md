@@ -37,7 +37,7 @@ I'm a software engineering student at SJSU, developer, and digital explorer 🚵
     </picture>
     <img alt="C" width="30px" style="padding-right:10px;" src="https://clinvil.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fc.d9552339.png&w=384&q=75" /> &nbsp; &nbsp;
     <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp; &nbsp;
-    <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp; &nbsp;
+    <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> &nbsp; &nbsp;
     <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp; &nbsp;
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> &nbsp; &nbsp;
     <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> &nbsp; &nbsp;
